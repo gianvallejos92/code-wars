@@ -6,3 +6,4 @@ This problems are part of the Fundamental problems of CodeWars to learn Python
 #### Fundamental Problems Py
 
 - [Count_Sheeps](Count_Sheeps)
+- [Even or Odd](Even_or_Odd)
