@@ -1,5 +1,5 @@
-# How good are you reall?
-[Link: How good are you reall? - CodeWars](https://www.codewars.com/kata/5601409514fc93442500010b/train/python)
+# How good are you really?
+[Link: How good are you really? - CodeWars](https://www.codewars.com/kata/5601409514fc93442500010b/train/python)
 
 There was a test in your class and you passed it. Congratulations!
 But you're an ambitious person. You want to know if you're better than the average student in your class.
