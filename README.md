@@ -11,3 +11,4 @@ This problems are part of the Fundamental problems of CodeWars to learn Python
 - [A needle in the Haystack](A_needle_in_the_Haystack)
 - [Count of positives / Sum of Negatives](Count_of_positives_sum_of_negatives)
 - [Sum Arrays](Sum_arrays)
+- [Sum without highest and lowest number](Sum_without_highest_lowest_number)
