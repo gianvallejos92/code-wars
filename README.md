@@ -10,3 +10,4 @@ This problems are part of the Fundamental problems of CodeWars to learn Python
 - [How good are you really?](How_good_are_you_really)
 - [A needle in the Haystack](A_needle_in_the_Haystack)
 - [Count of positives / Sum of Negatives](Count_of_positives_sum_of_negatives)
+- [Sum Arrays](Sum_arrays)
