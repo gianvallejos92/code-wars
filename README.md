@@ -12,3 +12,4 @@ This problems are part of the Fundamental problems of CodeWars to learn Python
 - [Count of positives / Sum of Negatives](Count_of_positives_sum_of_negatives)
 - [Sum Arrays](Sum_arrays)
 - [Sum without highest and lowest number](Sum_without_highest_lowest_number)
+- [String repeat](String_repeat)
