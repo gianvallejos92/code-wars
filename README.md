@@ -14,3 +14,4 @@ This problems are part of the Fundamental problems of CodeWars to learn Python
 - [Sum without highest and lowest number](Sum_without_highest_lowest_number)
 - [String repeat](String_repeat)
 - [Find the first non-consecutive number](Find_first_non_consecutive_number)
+- [Twice as old](Twice_as_old)
