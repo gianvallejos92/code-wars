@@ -3,8 +3,7 @@ This repository contains my solutions to some [CodeWars](https://www.codewars.co
 
 This problems are part of the Fundamental problems of CodeWars to learn Python
 
-#### Fundamental Problems Py
-
+#### Fundamental Problems Py - Level 0
 - [Count_Sheeps](Count_Sheeps)
 - [Even or Odd](Even_or_Odd)
 - [How good are you really?](How_good_are_you_really)
@@ -15,3 +14,6 @@ This problems are part of the Fundamental problems of CodeWars to learn Python
 - [String repeat](String_repeat)
 - [Find the first non-consecutive number](Find_first_non_consecutive_number)
 - [Twice as old](Twice_as_old)
+
+#### Medium Problems Py - Level 2
+- [Count characters in your string](Count_characters_String)
